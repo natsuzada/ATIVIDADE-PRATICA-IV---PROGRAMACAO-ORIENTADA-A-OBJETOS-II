@@ -1,0 +1,32 @@
+[
+  {
+    "Nome": "Rikelmy",
+    "Email": "rikelmym33@gmail.com",
+    "Cursos": [
+      "C# Completo"
+    ],
+    "FormaPagamento": "Pix",
+    "ValorTotal": 199.9,
+    "Progresso": 25
+  },
+  {
+    "Nome": "Maria Laura",
+    "Email": "mlaura42@gmail.com",
+    "Cursos": [
+      "Banco de Dados"
+    ],
+    "FormaPagamento": "Pix",
+    "ValorTotal": 149.9,
+    "Progresso": 100
+  },
+  {
+    "Nome": "Faozi Figueiredo",
+    "Email": "Faozi1410@gmail.com",
+    "Cursos": [
+      "L\u00F3gica de Programa\u00E7\u00E3o"
+    ],
+    "FormaPagamento": "N\u00E3o Necess\u00E1rio",
+    "ValorTotal": 0,
+    "Progresso": 100
+  }
+]
